@@ -164,8 +164,6 @@ header{
 	}
 
 	.swatches li{
-		display: inline;
-		float: left;
 		width: 25%;
 		margin-right: 16px;
 		margin-bottom: 10px;
