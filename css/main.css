@@ -7,18 +7,18 @@ body{
 }
 
 @font-face {
-    font-family: ITCBold;
-    src: url(../fonts/itc-fenice-lt-bold.ttf);
+	font-family: ITCBold;
+	src: url(../fonts/itc-fenice-lt-bold.ttf);
 }
 
 @font-face {
-    font-family: ITCOblique;
-    src: url(../fonts/itc-fenice-lt-oblique.ttf);
+	font-family: ITCOblique;
+	src: url(../fonts/itc-fenice-lt-oblique.ttf);
 }
 
 @font-face {
-    font-family: ITCRegular;
-    src: url(../fonts/itc-fenice-lt-regular.ttf);
+	font-family: ITCRegular;
+	src: url(../fonts/itc-fenice-lt-regular.ttf);
 }
 
 img{
@@ -39,8 +39,8 @@ h2{
 }
 
 ul {
-    padding: 0;
-    list-style-type: none;
+	padding: 0;
+	list-style-type: none;
 }
 
 a:link{
@@ -54,7 +54,7 @@ a:hover{
 	color: #b4774b;
 	font-weight: lighter;
 	text-decoration: none;
-} 
+}
 
 a:active{
 	color: #ec2434;
@@ -133,7 +133,7 @@ header{
 
 .illustrations li{
 	margin: 1em;
-	
+
 }
 
 .illustrations img{
@@ -164,8 +164,6 @@ header{
 	}
 
 	.swatches li{
-		display: inline;
-		float: left;
 		width: 25%;
 		margin-right: 16px;
 		margin-bottom: 10px;
@@ -182,7 +180,7 @@ header{
 		margin: 0;
 		padding-left: 28px;
 		margin-bottom: 10px;
-		
+
 	}
 
 	.patterns{
@@ -204,13 +202,13 @@ header{
 }
 
 @media (min-width: 1280px){
-	
+
 	main{
 		width: 1200px;
 		margin: 0 auto;
 	}
 
-	
+
 }
 
 
